@@ -1,1 +1,1 @@
-image plot
+./bokeh_plot_visusalisation.png
