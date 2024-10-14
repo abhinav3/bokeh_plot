@@ -1,1 +1,1 @@
-./bokeh_plot_visusalisation.png
+![image info](./bokeh_plot_visusalisation.png)
